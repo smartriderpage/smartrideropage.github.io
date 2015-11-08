@@ -1,2 +1,1 @@
 # SmartRiderPage
-# smartriderpage.github.io
